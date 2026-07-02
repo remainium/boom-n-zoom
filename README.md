@@ -20,3 +20,6 @@ the control surfaces are simplifed and easy to create
 
 i designed this because ive always sat in my backyard and thought that one day id be able to fly a plane around the grasslands near my house
 today i have the capability and resources to make that dream come true.
+
+<img width="1366" height="768" alt="Screenshot (1155)" src="https://github.com/user-attachments/assets/144ac68a-2850-457b-9b12-91ae9cf13e5f" />
+( skin is missing to show the internal structure)
